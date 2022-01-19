@@ -2,9 +2,11 @@
 A shiny app that can perform simple claim development using development triangles and plot the results
 
 This app will take in 1 csv file of the following long format:
-Column 1: Loss Years
-Column 2: Development Years
-Column 3: Claims Paid that year
+
+1) Column 1: Loss Years
+2) Column 2: Development Years
+3) Column 3: Claims Paid that year
+
 The order and the column names of the data shouldn't matter, as long as the data entry follows the columns specified above.
 
 Problems:
